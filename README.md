@@ -1,2 +1,2 @@
 # hello-world
-just another repository
+learning mit 6.824
